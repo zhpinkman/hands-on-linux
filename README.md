@@ -23,3 +23,15 @@ this command tries to open the file with its default file opener
 ## for installing with `apt`
 
 > sudo apt install telegram-desktop
+
+# Jet brains
+
+for running fish shell for terminal tools in its IDEs you must use this script and also select this script for starting shell in setting
+
+         #!/bin/sh
+         if [ -n "$OLD_XDG_CONFIG_HOME" ]; then
+         export XDG_CONFIG_HOME="\$OLD_XDG_CONFIG_HOME"
+         else
+         unset XDG_CONFIG_HOME
+         fi
+         fish
