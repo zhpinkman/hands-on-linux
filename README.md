@@ -30,6 +30,11 @@ Tabliss
 > sudo apt-get install openconnect network-manager-openconnect-gnome
 > sudo openconnect s11.de.weserv.xyz `--no-dtls (for DTLS disabled)`
 
+* Terminator
+> sudo add-apt-repository ppa:gnome-terminator
+> sudo apt-get update
+> sudo apt-get install terminator
+
 # pdf viewer
 * okular
 * journal
