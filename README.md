@@ -44,7 +44,7 @@ sudo openconnect s11.de.weserv.xyz `--no-dtls (for DTLS disabled)`
 ```console
 sudo apt-get install terminator
 ```
-__ config file : ~/.config/terminator/config __
+config file : ~/.config/terminator/config
 
 * fish shell
 ```console
