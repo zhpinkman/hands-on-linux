@@ -1,7 +1,9 @@
 # hands-on-linux
 
 * first of all, bear in mind that everything could be solved with a easy command before we get started
-> sudo apt-get update
+```console
+sudo apt-get update
+```
 
 some useful commands, repositories, and tools for linux
 
