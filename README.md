@@ -54,6 +54,14 @@ sudo apt install fish
 touch ~/.config/fish/config.fish
 ```
 
+* XDM (Xtreme download manager)
+[installation](https://itsfoss.com/xtreme-download-manager-install/)
+
+* vlc
+```console
+sudo snap install vlc
+```
+
 # pdf viewer
 * okular
 ```console
