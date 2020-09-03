@@ -31,9 +31,12 @@ Tabliss
 > sudo openconnect s11.de.weserv.xyz `--no-dtls (for DTLS disabled)`
 
 * Terminator
-> sudo add-apt-repository ppa:gnome-terminator
-> sudo apt-get update
 > sudo apt-get install terminator
+__ config file : ~/.config/terminator/config __
+
+* fish shell
+> sudo apt install fish
+> touch ~/.config/fish/config.fish
 
 # pdf viewer
 * okular
