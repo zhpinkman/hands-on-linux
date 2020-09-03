@@ -15,35 +15,49 @@ Tabliss
 [Unsplash](https://unsplash.com/)
 
 * removing sudo message on terminal startup
-> touch ~/.sudo_as_admin_successful
+```console
+touch ~/.sudo_as_admin_successful
+```
 
 * Git
-> sudo apt-get install git
+```console
+sudo apt-get install git
+```
 
 * vs code (code editor)
-> sudo snap install code --classic
+```console
+sudo snap install code --classic
+```
 
 * Telegram Desktop
-> sudo snap install telegram-desktop
+```console
+sudo snap install telegram-desktop
+```
 
 * Openconnect vpn client
-> sudo apt-get install openconnect network-manager-openconnect-gnome
-> sudo openconnect s11.de.weserv.xyz `--no-dtls (for DTLS disabled)`
+```console
+sudo apt-get install openconnect network-manager-openconnect-gnome
+sudo openconnect s11.de.weserv.xyz `--no-dtls (for DTLS disabled)`
+```
 
 * Terminator
-> sudo apt-get install terminator
+```console
+sudo apt-get install terminator
+```
 __ config file : ~/.config/terminator/config __
 
 * fish shell
-> sudo apt install fish
-> touch ~/.config/fish/config.fish
+```console
+sudo apt install fish
+touch ~/.config/fish/config.fish
+```
 
 # pdf viewer
 * okular
+```console
+sudo apt-get install okular
+```
 * journal
-
-
-> sudo apt-get install okular
 
 # Jet brains
 
