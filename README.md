@@ -62,6 +62,9 @@ touch ~/.config/fish/config.fish
 sudo snap install vlc
 ```
 
+* dropbox
+[installation](https://www.dropbox.com/install-linux)
+
 # pdf viewer
 * okular
 ```console
