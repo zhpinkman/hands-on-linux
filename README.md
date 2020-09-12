@@ -52,6 +52,7 @@ config file : ~/.config/terminator/config
 ```console
 sudo apt install fish
 touch ~/.config/fish/config.fish
+chsh -s /usr/bin/fish
 ```
 
 * XDM (Xtreme download manager)
