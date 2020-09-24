@@ -58,6 +58,9 @@ chsh -s /usr/bin/fish
 * XDM (Xtreme download manager)
 [installation](https://itsfoss.com/xtreme-download-manager-install/)
 
+* Jupyter
+[installation](https://datawookie.netlify.app/blog/2017/06/setting-up-jupyter-with-python-3-on-ubuntu/)
+
 * vlc
 ```console
 sudo snap install vlc
