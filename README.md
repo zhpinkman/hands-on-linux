@@ -41,6 +41,18 @@ sudo snap install telegram-desktop
 sudo apt-get install openconnect network-manager-openconnect-gnome
 sudo openconnect s11.de.weserv.xyz `--no-dtls (for DTLS disabled)`
 ```
+* Curl
+```console
+sudo apt-get install curl
+```
+
+* ZSH
+```console
+sudo apt install zsh
+
+sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
+
 
 * Terminator
 ```console
