@@ -20,6 +20,10 @@ Tabliss
 ```console
 touch ~/.sudo_as_admin_successful
 ```
+* PIP3
+```console
+sudo apt-get install python3-pip
+```
 
 * Git
 ```console
