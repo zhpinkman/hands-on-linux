@@ -1,6 +1,6 @@
 # hands-on-linux
 
-* first of all, bear in mind that everything could be solved with a easy command before we get started
+* first of all, bear in mind that everything could be solved with an easy command before we get started
 ```console
 sudo apt-get update
 ```
